@@ -1,0 +1,91 @@
+point,utm,zone,long,lat,design,elev,habitat,habitat_name,interval,issues
+0,47T 0466774 4723329,47T,466774,4723329,Grid,,18,Higher and intermediate dry steppe/ shrub communities,,no images
+1,47T 0488274 4723329,47T,488274,4723329,Grid,1505,34,Salty haloxylon semi-desert,20,
+2,47T 0509774 4723329,47T,509774,4723329,Grid,1169,18,Higher and intermediate dry steppe/ shrub communities,20,trigger mode; stops 27/7/19
+3,47T 0531274 4723329,47T,531274,4723329,Grid,1256,34,Salty haloxylon semi-desert,680,timelapse cycle 23 h 20 m
+4,47T 0294774 4744829,47T,294774,4744829,Grid,1222,33,Haloxylon semi-desert,20,stopped 26 June
+5,47T 0316274 4744829,47T,316274,4744829,Grid,1459,18,Higher and intermediate dry steppe/ shrub communities,20,stopped 9 June
+6,47T 0337774 4744829,47T,337774,4744829,Grid,1328,33,Haloxylon semi-desert,,no images
+7,47T 0359274 4744829,47T,359274,4744829,Grid,1224,29,Nitraria salt shrubs,20,
+8,47T 0380774 4744829,47T,380774,4744829,Grid,1248,33,Haloxylon semi-desert,20,
+9,47T 0402274 4744829,47T,402274,4744829,Grid,1242,18,Higher and intermediate dry steppe/ shrub communities,20,
+10,47T 0423774 4744829,47T,423774,4744829,Grid,1242,34,Salty haloxylon semi-desert,,no images
+11,47T 0509774 4744829,47T,509774,4744829,Grid,1386,18,Higher and intermediate dry steppe/ shrub communities,,no images
+12,47T 0531274 4744829,47T,531274,4744829,Grid,1277,18,Higher and intermediate dry steppe/ shrub communities,20,
+13,47T 0294774 4766329,47T,294774,4766329,Grid,1398,18,Higher and intermediate dry steppe/ shrub communities,20,
+14,47T 0316274 4766329,47T,316274,4766329,Grid,1457,18,Higher and intermediate dry steppe/ shrub communities,20,
+15,47T 0337774 4766329,47T,337774,4766329,Grid,1382,33,Haloxylon semi-desert,20,mark on lens (otherwise OK)
+16,47T 0359274 4766329,47T,359274,4766329,Grid,1406,18,Higher and intermediate dry steppe/ shrub communities,20,multiple folders; ends with 3 videos; time/date resets on 12/8/19
+17,47T 0380774 4766329,47T,380774,4766329,Grid,1431,18,Higher and intermediate dry steppe/ shrub communities,,no images
+18,47T 0423774 4766329,47T,423774,4766329,Grid,1403,26,Desert shrub communities,,no images
+19,47T 0488274 4766329,47T,488274,4766329,Grid,1404,18,Higher and intermediate dry steppe/ shrub communities,,has images for 2 points; camera ZSL69: south facing; camera W9: multiple folders; ends with 2 videos; time/date resets on 12/8/19
+20,47T 0509774 4766329,47T,509774,4766329,Grid,1179,18,Higher and intermediate dry steppe/ shrub communities,,trigger mode; stops 4/7/19
+21,47T 0531274 4766329,47T,531274,4766329,Grid,1037,34,Salty haloxylon semi-desert,,
+22,47T 0273274 4787829,47T,273274,4787829,Grid,1126,33,Haloxylon semi-desert,,
+23,47T 0359274 4787829,47T,359274,4787829,Grid,1463,18,Higher and intermediate dry steppe/ shrub communities,,no images
+24,47T 0380774 4787829,47T,380774,4787829,Grid,1461,18,Higher and intermediate dry steppe/ shrub communities,,
+25,47T 0402274 4787829,47T,402274,4787829,Grid,1463,18,Higher and intermediate dry steppe/ shrub communities,,no images
+26,47T 0423774 4787829,47T,423774,4787829,Grid,1206,34,Salty haloxylon semi-desert,,no images
+27,47T 0445274 4787829,47T,445274,4787829,Grid,,34,Salty haloxylon semi-desert,,camera dropped 25/8/19
+28,47T 0466774 4787829,47T,466774,4787829,Grid,1272,34,Salty haloxylon semi-desert,,time lapse cycle 10 m; multiple folders; time/date resets on 10/8/18 (sic)
+29,47T 0488274 4787829,47T,488274,4787829,Grid,1080,34,Salty haloxylon semi-desert,,time lapse cycle 10 m; multiple folders; time/date resets on 10/8/19
+30,47T 0509774 4787829,47T,509774,4787829,Grid,1001,34,Salty haloxylon semi-desert,,trigger mode; west facing
+31,46T 0737686 4808950,46T,737686,4808950,Grid,691,18,Higher and intermediate dry steppe/ shrub communities,,multiple folders; 1 video at the start; time/date resets on 14/8/19
+32,47T 0273274 4809329,47T,273274,4809329,Grid,1139,33,Haloxylon semi-desert,,multiple folders; 1 video at the start; time/date resets on 14/8/19
+33,47T 0316274 4809329,47T,316274,4809329,Grid,1323,33,Haloxylon semi-desert,,
+34,47T 0337774 4809329,47T,337774,4809329,Grid,1156,33,Haloxylon semi-desert,,multiple folders; 1 video at the start; time/date resets on 14/8/19
+35,47T 0359274 4809329,47T,359274,4809329,Grid,1008,34,Salty haloxylon semi-desert,,multiple folders; time/date resets on 11/8/19
+36,47T 0380774 4809329,47T,380774,4809329,Grid,1065,33,Haloxylon semi-desert,,stopped 31/7/19
+37,47T 0402274 4809329,47T,402274,4809329,Grid,897,34,Salty haloxylon semi-desert,,
+38,47T 0423774 4809329,47T,423774,4809329,Grid,841,34,Salty haloxylon semi-desert,,
+39,47T 0445274 4809329,47T,445274,4809329,Grid,115,18,Higher and intermediate dry steppe/ shrub communities,,"multiple folders; time/date resets on 13/6/19 and again on ""5/6/19"""
+40,47T 0488274 4809329,47T,488274,4809329,Grid,872,18,Higher and intermediate dry steppe/ shrub communities,,
+41,46T 0736137 4830393,46T,736137,4830393,Grid,832,18,Higher and intermediate dry steppe/ shrub communities,,
+42,47T 0273274 4830829,47T,273274,4830829,Grid,1014,35,Illjinia desert,,
+43,47T 0294774 4830829,47T,294774,4830829,Grid,1158,18,Higher and intermediate dry steppe/ shrub communities,,
+44,47T 0316274 4830829,47T,316274,4830829,Grid,1138,18,Higher and intermediate dry steppe/ shrub communities,,
+45,47T 0337774 4830829,47T,337774,4830829,Grid,1055,18,Higher and intermediate dry steppe/ shrub communities,,
+46,47T 0359274 4830829,47T,359274,4830829,Grid,908,34,Salty haloxylon semi-desert,,
+47,47T 0380774 4830829,47T,380774,4830829,Grid,889,34,Salty haloxylon semi-desert,,
+48,47T 0402274 4830829,47T,402274,4830829,Grid,846,34,Salty haloxylon semi-desert,,
+49,47T 0423774 4830829,47T,423774,4830829,Grid,867,35,Illjinia desert,,
+50,47T 0445274 4830829,47T,445274,4830829,Grid,941,35,Illjinia desert,,
+51,46T 0734583 4851835,46T,734583,4851835,Grid,695,18,Higher and intermediate dry steppe/ shrub communities,,
+52,47T 0273274 4852329,47T,273274,4852329,Grid,842,18,Higher and intermediate dry steppe/ shrub communities,,
+53,47T 0294774 4852329,47T,294774,4852329,Grid,961,35,Illjinia desert,,
+54,47T 0316274 4852329,47T,316274,4852329,Grid,993,18,Higher and intermediate dry steppe/ shrub communities,,doubled up
+55,47T 0337774 4852329,47T,337774,4852329,Grid,1074,18,Higher and intermediate dry steppe/ shrub communities,,
+56,47T 0359274 4852329,47T,359274,4852329,Grid,1039,33,Haloxylon semi-desert,,
+57,47T 0380774 4852329,47T,380774,4852329,Grid,1071,25,Desert shrub communities,,
+58,47T 0402274 4852329,47T,402274,4852329,Grid,1088,18,Higher and intermediate dry steppe/ shrub communities,,no images
+59,47T 0423774 4852329,47T,423774,4852329,Grid,1148,34,Salty haloxylon semi-desert,,
+60,46T 0711585 4871714,46T,711585,4871714,Grid,813,18,Higher and intermediate dry steppe/ shrub communities,,
+61,46T 0733023 4873276,46T,733023,4873276,Grid,936,18,Higher and intermediate dry steppe/ shrub communities,,
+62,47T 0273274 4873829,47T,273274,4873829,Grid,1042,18,Higher and intermediate dry steppe/ shrub communities,,
+63,47T 0294774 4873829,47T,294774,4873829,Grid,1128,18,Higher and intermediate dry steppe/ shrub communities,,
+64,47T 0316274 4873829,47T,316274,4873829,Grid,1187,18,Higher and intermediate dry steppe/ shrub communities,,
+65,47T 0337774 4873829,47T,337774,4873829,Grid,1181,18,Higher and intermediate dry steppe/ shrub communities,,no images
+66,47T 0359274 4873829,47T,359274,4873829,Grid,1096,33,Haloxylon semi-desert,,
+67,47T 0380774 4873829,47T,380774,4873829,Grid,1184,33,Haloxylon semi-desert,,
+68,47T 0402274 4873829,47T,402274,4873829,Grid,1340,33,Haloxylon semi-desert,,no images
+69,46T 0731458 4894717,46T,731458,4894717,Grid,1355,33,Haloxylon semi-desert,,
+70,47T 0273274 4895329,47T,273274,4895329,Grid,1424,26,Desert shrub communities,,
+71,47T 0294774 4895329,47T,294774,4895329,Grid,1297,33,Haloxylon semi-desert,,
+72,47T 0316274 4895329,47T,316274,4895329,Grid,1256,18,Higher and intermediate dry steppe/ shrub communities,,
+73,47T 0337774 4895329,47T,337774,4895329,Grid,1206,18,Higher and intermediate dry steppe/ shrub communities,,
+74,47T 0359274 4895329,47T,359274,4895329,Grid,1210,18,Higher and intermediate dry steppe/ shrub communities,,
+75,47T 0380774 4895329,47T,380774,4895329,Grid,1405,33,Haloxylon semi-desert,,
+76,47T 0294774 4916829,47T,294774,4916829,Grid,1480,18,Higher and intermediate dry steppe/ shrub communities,,
+77,47T 0316274 4916829,47T,316274,4916829,Grid,1402,18,Higher and intermediate dry steppe/ shrub communities,,
+78,47T 0337774 4916829,47T,337774,4916829,Grid,,18,Higher and intermediate dry steppe/ shrub communities,,no images
+79,47T 0316274 4938329,47T,316274,4938329,Grid,1375,18,Higher and intermediate dry steppe/ shrub communities,,
+81,47T 0481880 4731462,47T,481880,4731462,Canyon,1493,34,Salty haloxylon semi-desert,,
+82,47T 0451470 4740813,47T,451470,4740813,Canyon,1543,18,Higher and intermediate dry steppe/ shrub communities,,
+83,47T 0386789 4755283,47T,386789,4755283,Canyon,1437,18,Higher and intermediate dry steppe/ shrub communities,,no images
+84,47T 0437861 4773239,47T,437861,4773239,Canyon,1604,18,Higher and intermediate dry steppe/ shrub communities,,doubled up
+85,47T 0296562 4780635,47T,296562,4780635,Canyon,1624,18,Higher and intermediate dry steppe/ shrub communities,,
+86,47T 0292149 4791440,47T,292149,4791440,Canyon,1693,33,Haloxylon semi-desert,,
+87,47T 0279420 4798347,47T,279420,4798347,Canyon,1556,18,Higher and intermediate dry steppe/ shrub communities,,
+88,47T 0394936 4889786,47T,394936,4889786,Canyon,1527,18,Higher and intermediate dry steppe/ shrub communities,,
+89,47T 0276825 4903333,47T,276825,4903333,Canyon,1422,18,Higher and intermediate dry steppe/ shrub communities,,
+90,47T 0263048 4911580,47T,263048,4911580,Canyon,1675,18,Higher and intermediate dry steppe/ shrub communities,,
